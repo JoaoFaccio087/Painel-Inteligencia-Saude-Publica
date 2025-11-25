@@ -6,8 +6,8 @@ Este repositório contém o código e a documentação do projeto de **Business 
 
 A documentação detalhada do projeto pode ser acessada nos seguintes arquivos:
 
-- [Documentação do Projeto (PDF)](Documentação/Documentação%20-%20Projeto%20Extensionista%20Integrador%20(5º%20Semestre).pdf)
-- [Relatório do Projeto (Word)](Documentação/Documentação%20-%20Projeto%20Extensionista%20Integrador%20(5º%20Semestre).docx)
+- [Documentação do Projeto (Word)](https://github.com/JoaoFaccio087/Painel-Inteligencia-Saude-Publica/blob/main/Documenta%C3%A7%C3%A3o/Documenta%C3%A7%C3%A3o%20-%20Projeto%20Extensionista%20Integrador%20(5%C2%BA%20Semestre).docx)
+- [Documentação do Projeto (PDF)](https://github.com/JoaoFaccio087/Painel-Inteligencia-Saude-Publica/blob/main/Documenta%C3%A7%C3%A3o/Documenta%C3%A7%C3%A3o%20-%20Projeto%20Extensionista%20Integrador%20(5%C2%BA%20Semestre).pdf)
 
 ## :gear: Tecnologias Utilizadas
 
