@@ -15,14 +15,11 @@ A documentação detalhada do projeto pode ser acessada nos seguintes arquivos:
 - **SQL** e **ETL** para manipulação e integração dos dados.
 - **Supabase** para o gerenciamento e consulta ao banco de dados.
 
-## :globe_with_meridians: Fontes de Dados
+## :globe_with_meridians: Principais Fontes de Dados
 
-- **CNES**: Cadastro Nacional de Estabelecimentos de Saúde.
-- **SIOPS**: Sistema de Informações sobre Orçamentos Públicos em Saúde.
-- **SIM**: Sistema de Informações sobre Mortalidade.
-- **SINASC**: Sistema de Informações sobre Nascidos Vivos.
-- **SINAN**: Sistema de Informações de Agravos de Notificação.
-- **IBGE**: Instituto Brasileiro de Geografia e Estatística.
+- **IBGE**: Instituto Brasileiro de Geografia e Estatística. Fornece dados demográficos e geográficos sobre o Brasil, como a população municipal.
+- **DATASUS**: Departamento de Informática do SUS. Contém dados de saúde pública e doenças notificáveis.
+- **SUS**: Sistema Único de Saúde. Dados sobre saúde pública no Brasil, incluindo registros de casos e vacinas.
 
 ## :triangular_flag_on_post: Objetivo do Projeto
 
