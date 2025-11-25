@@ -12,11 +12,11 @@ Este projeto visa proporcionar uma ferramenta eficiente para a **análise de dad
 
 ## :busts_in_silhouette: Integrantes do Grupo
 
-- **Artur Ferreira Xavier** (Analista de Negócio / Documentação)
-- **João Paulo Kaezer** (Desenvolvedor de BI / Dashboard)
-- **João Pedro Faccio** (Líder de Projeto / Coordenador)
-- **Nicolly Mendes Cescon** (Arquiteta de Dados)
-- **Thiago Caleb** (Engenheiro de ETL)
+- **Artur Ferreira Xavier** 
+- **João Paulo Kaezer** 
+- **João Pedro Faccio** 
+- **Nicolly Mendes Cescon** 
+- **Thiago Caleb** 
 
 ## :computer: Tecnologias Utilizadas
 
