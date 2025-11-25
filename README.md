@@ -28,7 +28,7 @@ Este projeto visa proporcionar uma ferramenta eficiente para a **análise de dad
 
 Abaixo, uma captura de tela do painel **interativo do Power BI**, que apresenta os indicadores de **casos de dengue** e **cobertura vacinal** no estado de Mato Grosso:
 
-![Tela de Início Power BI](Documentação/Dashboard%20-%20Dengue%20e%20Vacinação.png)
+![Tela de Início Power BI](https://github.com/JoaoFaccio087/Painel-Inteligencia-Saude-Publica/blob/main/Dashboard%20-%20Dengue%20e%20Vacina%C3%A7%C3%A3o.png)
 
 ## :link: Acesse o Painel Interativo
 
