@@ -7,8 +7,7 @@ Este repositório contém o código e a documentação do projeto de **Business 
 A documentação detalhada do projeto pode ser acessada nos seguintes arquivos:
 
 - [Documentação do Projeto (PDF)](Documentação/Documentação%20-%20Projeto%20Extensionista%20Integrador%20(5º%20Semestre).pdf)
-- [Documentação do Projeto (Word)](Documentação/Documentação%20-%20Projeto%20Extensionista%20Integrador%20(5º%20Semestre).docx)
-
+- [Relatório do Projeto (Word)](Documentação/Documentação%20-%20Projeto%20Extensionista%20Integrador%20(5º%20Semestre).docx)
 
 ## :gear: Tecnologias Utilizadas
 
