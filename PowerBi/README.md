@@ -1,4 +1,4 @@
-# :bar_chart: Power BI
+# Power BI
 
 Esta pasta contém todos os arquivos relacionados ao **Painel de Inteligência em Saúde Pública** desenvolvido no **Power BI**. O painel tem como objetivo apresentar dados sobre **casos de dengue** e **cobertura vacinal** (BCG e Tríplice Viral D1) por município no estado de Mato Grosso.
 
