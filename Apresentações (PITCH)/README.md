@@ -1,4 +1,4 @@
-# :speaking_head: Apresentações (PITCH)
+# Apresentações (PITCH)
 
 Esta pasta contém os arquivos relacionados às apresentações do projeto, realizadas durante o **Projeto Extensionista Integrador**. As apresentações foram feitas em diferentes momentos do projeto, incluindo os **PITCHs** realizados para mostrar o progresso e os resultados alcançados.
 
