@@ -34,4 +34,4 @@ Abaixo, uma captura de tela do painel **interativo do Power BI**, que apresenta 
 
 Você pode acessar o painel interativo do Power BI diretamente por meio do seguinte link:
 
-[**Painel de Inteligência em Saúde Pública - Power BI**](https://app.powerbi.com/view?r=eyJrIjoiMWZkNzViNDctZDgyNi00NTJiLTk4MTktZjQ2MzhlNzRiZjYzIiwidCI6ImMyMzE1Y2Y5LWY3N2EtNDNkOC05NjdhLThhMzExZWUxMWYwMSJ9)
+[**Painel de Inteligência em Saúde Pública - Power BI**](https://app.powerbi.com/view?r=eyJrIjoiMGY4N2M0NjctYmYyMS00OTM1LWFlOTAtNmNmOTMyMGU5MTA5IiwidCI6ImNkMzZiYzFkLWVmN2MtNDk2NS04YjI0LWYxYTBjMDFjNzg1NiJ9)
